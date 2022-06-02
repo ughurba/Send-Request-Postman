@@ -1,0 +1,21 @@
+.form-control{
+    width: 400px;
+}
+form{
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+.btn-group{
+    margin-left: 20px;
+}
+.dropdown-menu{
+    margin-top: 40px;
+
+}
+.form-select{
+    width: 100px;
+}
+li{
+    list-style: none;
+}
